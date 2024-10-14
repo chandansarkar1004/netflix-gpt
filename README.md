@@ -23,7 +23,11 @@
 - Fetch data for trailer video
 - Update store with trailer video
 - Emmbed the youtube video and make it autoplay and mute
-- 
+- Build Secondary container
+- Build movie list
+- Build movie card
+- TMDB image CDN
+- Make some more Hooks for different Movies list
 
 # Features
 
