@@ -28,6 +28,8 @@
 - Build movie card
 - TMDB image CDN
 - Make some more Hooks for different Movies list
+- Gpt Search page
+- Gpt Search bar
 
 # Features
 
